@@ -3,7 +3,7 @@ a Potentimeter
 a Servo that will be rotating at a given rate 
 a PhotoSensor that controls the power of the lights
 Two switches to control which light should blink
-
+new comments
 */
 
 #include<Servo.h> // Loading the servo Library
